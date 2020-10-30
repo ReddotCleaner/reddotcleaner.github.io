@@ -18,4 +18,4 @@
 ## 以下为图标列表:
 |图标|图标|图标|图标|
 | :----: | :----: |:----: |:----: |
-|![aria2](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/aria2.png)|![jellyfin](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/jellyfin.png)|![transmission](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/transmission.png)|![qbittorrent](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/qbittorrent%20(1).png|
+|![aria2](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/aria2.png)|![jellyfin](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/jellyfin.png)|![transmission](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/transmission.png)|![qbittorrent](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/qbittorrent.png|
