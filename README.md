@@ -16,7 +16,9 @@
   - todo zzzzzzzzzzzzz
 
 ## 以下为图标列表:
-![aria2](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/aria2.png)                        
-![jellyfin](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/jellyfin.png)  
-![transmission](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/transmission.png)  
+|图标|
+| :----: |
+|![aria2](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/aria2.png)|
+|![jellyfin](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/jellyfin.png)|  
+|![transmission](https://raw.githubusercontent.com/ReddotCleaner/reddotcleaner.github.io/master/icons/transmission.png)|
 
