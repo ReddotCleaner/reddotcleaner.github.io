@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages-Demo-Liu
+## Welcome to GitHub ReddotCleaner
 
 **这是一个博客样例,为了方便在 [FreeServer](https://github.com/Demo-Liu/FreeServer) 项目2.0中使用个人博客发布文章, 而又懒癌晚期的小伙伴**
 
