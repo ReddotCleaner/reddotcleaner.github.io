@@ -1,2 +1,2 @@
 # reddotcleaner.github.io
-record tings.
+record things.
