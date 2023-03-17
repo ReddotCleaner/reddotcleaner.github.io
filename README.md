@@ -1,2 +1,2 @@
 # reddotcleaner.github.io
-gh_blog
+record tings.
